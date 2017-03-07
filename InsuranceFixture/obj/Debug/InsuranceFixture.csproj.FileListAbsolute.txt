@@ -1,0 +1,9 @@
+C:\Paul\Assignment\InsuranceFixture\bin\Debug\InsuranceFixture.dll
+C:\Paul\Assignment\InsuranceFixture\bin\Debug\InsuranceFixture.pdb
+C:\Paul\Assignment\InsuranceFixture\bin\Debug\fit.dll
+C:\Paul\Assignment\InsuranceFixture\bin\Debug\fitSharp.dll
+C:\Paul\Assignment\InsuranceFixture\bin\Debug\Insurance.dll
+C:\Paul\Assignment\InsuranceFixture\bin\Debug\Insurance.pdb
+C:\Paul\Assignment\InsuranceFixture\obj\Debug\InsuranceFixture.csprojResolveAssemblyReference.cache
+C:\Paul\Assignment\InsuranceFixture\obj\Debug\InsuranceFixture.dll
+C:\Paul\Assignment\InsuranceFixture\obj\Debug\InsuranceFixture.pdb

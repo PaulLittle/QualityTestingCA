@@ -1,0 +1,6 @@
+C:\Users\Katie\Source\Repos\SoftwareQualityAndTesting\Assignment\Insurance\bin\Debug\Insurance.dll
+C:\Users\Katie\Source\Repos\SoftwareQualityAndTesting\Assignment\Insurance\bin\Debug\Insurance.pdb
+C:\Users\Katie\Source\Repos\SoftwareQualityAndTesting\Assignment\Insurance\obj\Debug\Insurance.dll
+C:\Users\Katie\Source\Repos\SoftwareQualityAndTesting\Assignment\Insurance\obj\Debug\Insurance.pdb
+C:\Users\Katie\Source\Repos\SoftwareQualityAndTesting\Assignment\Insurance\bin\Debug\nunit.framework.dll
+C:\Users\Katie\Source\Repos\SoftwareQualityAndTesting\Assignment\Insurance\bin\Debug\nunit.framework.xml
